@@ -57,7 +57,7 @@ Employee-Management-System/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Employee-Management-System.git
+git clone https://github.com/kapy2003/Employee-Management-System.git
 ```
 
 ### 2. Navigate to the Project Directory
